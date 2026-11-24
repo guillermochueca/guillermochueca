@@ -20,4 +20,4 @@ Hice mis prácticas desarrollando extensiones en AL para Microsoft Dynamics 365 
 
 ## 📫 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/guillermo-chueca-diaz)
+[LinkedIn](https://www.linkedin.com/in/guillermo-chueca-diaz) · [guillermo.chuecadiaz@gmail.com](mailto:guillermo.chuecadiaz@gmail.com)
